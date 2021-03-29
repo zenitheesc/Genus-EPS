@@ -1,5 +1,5 @@
 <h1 align="center" style="color:white; background-color:black">USPSat-II EPS Modules</h1>
-<h4 align="center">[insert *brief* project description]</h4>
+<h4 align="center">This is the Electrical Power System for the Cubesat USPSat-II</h4>
 
 <p align="center">
 	<a href="http://zenith.eesc.usp.br/">
